@@ -1,0 +1,2 @@
+# Telecom_company_customer_classification
+Классификация клиентов телеком компании
